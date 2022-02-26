@@ -1,5 +1,7 @@
-My name is Xiao Can .
+My name is Xiao Can.
+
 I come from Hubei province.
+
 I'm going to be a member of ThoughtWorks.
 I hope I can realize my value and improve myself in Thought Works.
 
